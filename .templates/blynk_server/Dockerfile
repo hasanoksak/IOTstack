@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk14
+FROM adoptopenjdk/openjdk14:armv7l-debian-jre-14.0.2_12
 MAINTAINER 877dev <877dev@gmail.com>
 
 #RUN apt-get update
